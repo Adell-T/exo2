@@ -11,3 +11,4 @@ test fichierA
 10
 11
 12
+Ceci est une modification locale
